@@ -63,16 +63,9 @@ The main features of LPC2148 include the following.
 10. once the project is bulild link the hexfile build in stm32cube ide using post processor build 
 <img src="https://user-images.githubusercontent.com/36288975/226189577-c61cc1eb-3990-4968-8aa6-aefffc766b70.png" width=450 height=450>
 11. click on debug option 
-![image](https://user-images.githubusercontent.com/36288975/226189625-37daa9a3-62e9-42b5-a5ce-2ac63345905b.png)
-
-
-12. connect the stm nucleo board and click on run 
-![image](https://user-images.githubusercontent.com/36288975/226189649-b5dff389-91df-4eca-b84a-1127c6562637.png)
-
-
-
-
-
+<img src="https://user-images.githubusercontent.com/36288975/226189625-37daa9a3-62e9-42b5-a5ce-2ac63345905b.png" width=450 height=450>
+13. connect the stm nucleo board and click on run 
+<img src="https://user-images.githubusercontent.com/36288975/226189649-b5dff389-91df-4eca-b84a-1127c6562637.png" width=450 height=450>
 
 ## STM 32 CUBE PROGRAM :
 ```
@@ -154,11 +147,11 @@ void assert_failed(uint8_t *file, uint32_t line)
 #endif
 ```
 ## Output  :
- ![WhatsApp Image 2023-08-16 at 12 01 01](https://github.com/Balachandran143/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/118886489/4d0eaa4e-fe4a-41ab-8707-80315dd3cdf6)
+ <img src="https://github.com/Balachandran143/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/118886489/4d0eaa4e-fe4a-41ab-8707-80315dd3cdf6" width=450 height=450>
 
- 
- ![WhatsApp Image 2023-08-16 at 12 01 02](https://github.com/Balachandran143/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/118886489/32a1a245-bb63-4b91-8b0a-a2481892723f)
 
+
+ <img src="https://github.com/Balachandran143/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/118886489/32a1a245-bb63-4b91-8b0a-a2481892723f" width=450 height=450>
  
 ## Result :
 Interfacing a digital output with ARM microcontroller is executed and the results are verified.
